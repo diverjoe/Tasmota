@@ -80,3 +80,4 @@ Index | Define              | Driver  | Device   | Address(es) | Description
   55  | USE_EZO_PH          | xsns_78 | EZOPH    | 0x61 - 0x70 | pH Sensor
   55  | USE_EZO_ORP         | xsns_79 | EZOORP   | 0x61 - 0x70 | ORP Sensor
   55  | USE_EZO_RTD         | xsns_80 | EZORTD   | 0x61 - 0x70 | Temperature Sensor
+  82  | USE_MPRLS           | xnsx_82 | MPRLS    | 0x18 - 0x9  | Pressure Sensor

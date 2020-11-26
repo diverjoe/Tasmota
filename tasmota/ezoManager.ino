@@ -53,7 +53,7 @@ const char EZO_ORP_NAME[] PROGMEM = "ORP";
 #ifdef USE_EZOPH
 const char EZO_PH_NAME[]  PROGMEM = "pH";
 #endif
-//const char EZO_EC_NAME[]  PROGMEM = "EC";
+const char EZO_EC_NAME[]  PROGMEM = "EC";
 #ifdef USE_EZORTD
 const char EZO_RTD_NAME[] PROGMEM = "RTD";
 #endif
